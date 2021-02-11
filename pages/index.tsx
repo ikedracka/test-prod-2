@@ -1,2 +1,2 @@
-const Home = () => <h2>( ͡° ͜ʖ ͡°)</h2>;
+const Home = () => <h2>Test</h2>;
 export default Home;
