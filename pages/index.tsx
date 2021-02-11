@@ -1,2 +1,2 @@
-const Home = () => <h2>Dzień dobry, Headless!</h2>;
+const Home = () => <h2>( ͡° ͜ʖ ͡°)</h2>;
 export default Home;
