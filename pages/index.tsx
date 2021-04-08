@@ -1,2 +1,2 @@
-const Home = () => <h2>New branch</h2>;
+const Home = () => <h2>Dokąd nocą tupta jeż?</h2>;
 export default Home;
